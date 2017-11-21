@@ -1,0 +1,3 @@
+﻿使用方式:  java -jar XMAEvaluation.jar 比赛数据文件路径 结果文件路径
+
+java -jar XMAEvaluation.jar 厦航大赛数据20170705_1.xlsx ../res/Summerwind_650705.374_290.csv
